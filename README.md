@@ -1,7 +1,5 @@
 # 🗂️ Sapphire CQMS - Customer Query Management System
 
-> ⚠️ **Independent Portfolio Project** – This is a practice Business Analysis project created to demonstrate BA proficiency in requirements documentation, agile artifacts, 
-> and hybrid project methodology. It is not a real production application.
 
 ---
 
@@ -26,15 +24,6 @@
 This repository demonstrates my skills as a **Business Analyst** through a 
 simulated project — Sapphire CQMS (Customer Query Management System).
 
-| Field | Details |
-|---|---|
-| **Created By** | Malvin Felicia.P |
-| **Purpose** | BA Portfolio – Skills Demonstration |
-| **Project Name** | Sapphire Customer Query Management System (CQMS) |
-| **Version** | 0.1 – 2026 |
-| **Methodology** | Hybrid (Waterfall + Agile) |
-| **Target Users** | 150–200 concurrent users |
-| **Platform** | Web-based internal application |
 
 ### BA Skills Demonstrated
 - ✅ Business Requirements Document (BRD)
@@ -186,17 +175,3 @@ Sapphire addresses these challenges by providing:
 - Improved agent efficiency through centralized system
 
 ---
-
-## 👩‍💼 Author
-
-**Malvin Felicia.P**
-Business Analyst
-
-- 🔗 GitHub: [malvinfelicia](https://github.com/malvinfelicia)
-- 📧 Contact: malvinfeliciap@gmail.com, https://www.linkedin.com/in/malvinfelicia
-
----
-
-**Last Updated:** March 2026
-**Document Version:** 1.0
-**Repository Status:** Portfolio Project
