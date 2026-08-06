@@ -76,6 +76,11 @@ Sapphire fixes this with:
 - Configure system settings
 - Generate system wide reports
 
+## Sample of Agile Artefacts
+
+<img width="1023" height="509" alt="image" src="https://github.com/user-attachments/assets/118a772a-0c9a-44d7-a140-69151b047dab" />
+
+
 ## System Architecture
 
 1. Web application layer for all user roles
