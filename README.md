@@ -33,6 +33,9 @@ A full BA engagement for Sapphire CQMS, a customer query system built for a fict
 
 <!-- SCREENSHOT: Add a screenshot of your project overview file from 00_Project_Overview here. This should be the first visual a recruiter sees, so pick a page that summarizes the project at a glance, ideally a title slide or one pager if you have one. -->
 
+<img width="340" height="413" alt="image" src="https://github.com/user-attachments/assets/0f6879b9-1fa4-4c94-bdf5-7061dc01aefc" />
+
+
 ## Business Problem
 
 Zenith managed customer queries manually through Excel, causing:
@@ -79,6 +82,12 @@ Sapphire fixes this with:
 - Generate system wide reports
 
 <!-- SCREENSHOT: Add a wireframe screenshot from 01_Waterfall_Documentation here. Pick the main dashboard or ticket creation screen, this gives recruiters a visual sense of the actual product, not just a feature list. -->
+
+<img width="947" height="483" alt="image" src="https://github.com/user-attachments/assets/75c690b4-e2ff-4d70-b560-7707268ec0d8" />
+
+<img width="991" height="524" alt="image" src="https://github.com/user-attachments/assets/2cf64d89-e36b-4a69-ad83-2cd468417fea" />
+
+
 
 ## System Architecture
 
