@@ -1,9 +1,9 @@
-# 🗂️ Sapphire CQMS - Customer Query Management System
+# Sapphire CQMS, Customer Query Management System
 
+A simulated Business Analyst project covering the full lifecycle, from business problem to requirements, design, and Agile delivery, for a customer query management system.
 
----
+## Table of Contents
 
-## 📋 Table of Contents
 - [About This Project](#about-this-project)
 - [Business Problem](#business-problem)
 - [Solution](#solution)
@@ -15,163 +15,143 @@
 - [Project Timeline](#project-timeline)
 - [Project Scope](#project-scope)
 - [Success Metrics](#success-metrics)
-- [Author](#author)
+- [Tools Used](#tools-used)
+- [Skills and Things I Learned](#skills-and-things-i-learned)
 
----
+## About This Project
 
-## 👩‍💼 About This Project
+A full BA engagement for Sapphire CQMS, a customer query system built for a fictional company, Zenith.
 
-This repository demonstrates my skills as a **Business Analyst** through a 
-simulated project — Sapphire CQMS (Customer Query Management System).
+**BA Skills Demonstrated**
+- Business Requirements Document (BRD)
+- Functional Requirements Document (FRD)
+- Requirements Traceability Matrix (RTM)
+- Software Lifecycle Process Flow (SLPF)
+- Wireframes
+- Epics, user stories, and acceptance criteria
+- JIRA sprint management and Agile artifacts
 
+## Business Problem
 
-### BA Skills Demonstrated
-- ✅ Business Requirements Document (BRD)
-- ✅ Functional Requirements Document (FRD)
-- ✅ Requirements Traceability Matrix (RTM)
-- ✅ Software Lifecycle Process Flow (SLPF)
-- ✅ Wireframes
-- ✅ Epics, User Stories & Acceptance Criteria
-- ✅ JIRA Sprint Management & Agile Artifacts
-
----
-
-## ❗ Business Problem
-
-Customer queries at Zenith (simulated company) are managed manually using 
-Microsoft Excel, creating several operational challenges:
+Zenith managed customer queries manually through Excel, causing:
 
 - No centralized system for query management
-- Difficult to track customer service agent efficiency
-- High risk of queries going unresolved
-- Slow response times with no SLA compliance tracking
-- Poor customer experience due to limited visibility
+- Difficult tracking of agent efficiency
+- High risk of unresolved queries
+- Slow response times with no SLA tracking
+- Poor visibility into customer experience
 
----
+## Solution
 
-## ✅ Solution
+Sapphire fixes this with:
 
-Sapphire addresses these challenges by providing:
+- Centralized ticket management
+- IVR integration for automatic call routing
+- Real time SLA tracking
+- Smart service centre assignment by proximity
+- SMS and WhatsApp notifications
+- Reporting to track trends and recurring issues
+- A 70 percent cut in response time
 
-- **Centralized Ticket Management** – All customer queries in one system
-- **IVR Integration** – Automatic call routing to available agents
-- **Real-time SLA Tracking** – Monitor compliance and performance
-- **Intelligent Service Centre Assignment** – Route tickets to nearest centres
-- **Multi-channel Notifications** – SMS and WhatsApp integration
-- **Comprehensive Reporting** – Track trends and identify recurring issues
-- **70% Response Time Reduction** – Significantly faster query resolution
+## Key Features
 
----
-
-## ⭐ Key Features
-
-### For Customer Service Agents (CSA)
-- Secure login with role-based access
-- IVR-integrated call reception
+**Customer Service Agents**
+- Secure role based login
+- IVR integrated call reception
 - Ticket creation and management
-- Access to troubleshooting guides
+- Troubleshooting guide access
 
-### For Service Centres
-- View and accept/decline ticket assignments
-- Update ticket status and close tickets
-- SLA performance tracking
+**Service Centres**
+- Accept or decline assignments
+- Update and close tickets
+- Track SLA performance
 
-### For Team Leads
+**Team Leads**
 - Monitor team performance
-- Approve ticket resolutions
-- View SLA compliance dashboards
+- Approve resolutions
+- View SLA dashboards
 
-### For Administrators
-- Manage user profiles and credentials
+**Administrators**
+- Manage users and credentials
 - Configure system settings
-- Generate system-wide reports
+- Generate system wide reports
 
----
+## System Architecture
 
-## 🏗️ System Architecture
+1. Web application layer for all user roles
+2. Application server for business logic
+3. Database layer for customer, ticket, and user data
+4. IVR integration layer for call routing
+5. Notification gateway for SMS and WhatsApp
+6. Authentication and authorization for secure access
 
-### Core Components
-1. **Web Application Layer** – User interface for all roles
-2. **Application Server** – Business logic and workflow management
-3. **Database Layer** – Customer, ticket, and user data storage
-4. **IVR Integration Layer** – Call routing and management
-5. **Notification Gateway** – SMS and WhatsApp integration
-6. **Authentication & Authorization** – Secure access control
-
----
-
-## 👥 User Roles
+## User Roles
 
 | Role | Responsibilities | Access Level |
 |---|---|---|
-| Admin | User management, system configuration | Full system access |
+| Admin | User management, system configuration | Full access |
 | Customer Service Agent | Handle calls, create tickets, troubleshoot | Operational access |
-| Service Centre | Accept assignments, resolve field issues | Service-specific access |
+| Service Centre | Accept assignments, resolve issues | Service specific access |
 | Team Lead | Approve resolutions, monitor performance | Team oversight access |
 
----
-
-## 💻 Technology Stack
+## Technology Stack
 
 | Layer | Technology |
 |---|---|
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | RESTful API Architecture |
-| **Database** | Relational DBMS |
-| **Integration** | IVR API, SMS Gateway, WhatsApp Business API |
-| **Security** | RBAC, Password Encryption, Session Management |
+| Frontend | HTML, CSS, React.js, JavaScript |
+| Backend | RESTful API architecture |
+| Database | Relational DBMS |
+| Integration | IVR API, SMS gateway, WhatsApp Business API |
+| Security | RBAC, password encryption, session management |
 
----
+## Project Documentation
 
-## 📁 Project Documentation
+**Waterfall Documentation**
+- BRD, FRD, RTM, SLPF
+- UI wireframes
 
-### 📂 01_Waterfall_Documentation
-- **BRD** – Business Requirements Document
-- **FRD** – Functional Requirements Document
-- **RTM** – Requirements Traceability Matrix
-- **SLPF** – Software Lifecycle Process Flow
-- **Wireframes** – UI Wireframes
+**Agile Documents and Artifacts**
+- Agile artifacts in Excel, epics, user stories, acceptance criteria
+- JIRA screenshots, sprint boards, backlog, burndown charts
 
-### 📂 02_Agile_Documents_Artifacts
-- **Agile Artifacts Excel** – Epics, User Stories & Acceptance Criteria
-- **JIRA Screenshots** – Sprint boards, backlog, burndown charts
-
----
-
-## 📅 Project Timeline (Simulated)
+## Project Timeline (Simulated)
 
 | Phase | Duration | Status |
 |---|---|---|
-| Requirements Gathering | 4 weeks | ✅ Completed |
-| Design & Architecture | 3 weeks | ✅ Completed |
-| Development | 12 weeks | 🔄 Simulated |
-| Testing | 4 weeks | ⏳ Simulated |
-| UAT | 2 weeks | ⏳ Simulated |
-| Deployment | 1 week | ⏳ Simulated |
+| Requirements Gathering | 4 weeks | Completed |
+| Design and Architecture | 3 weeks | Completed |
+| Development | 12 weeks | Simulated |
+| Testing | 4 weeks | Simulated |
+| UAT | 2 weeks | Simulated |
+| Deployment | 1 week | Simulated |
 
----
+## Project Scope
 
-## 🎯 Project Scope
-
-### In Scope
-- Web-based internal application with 4 user roles
-- IVR call routing functionality
+- Web based app with 4 user roles
+- IVR call routing
 - Ticket creation and SLA tracking
-- SMS and WhatsApp notification integration
-- Support for 150–200 concurrent users
+- SMS and WhatsApp notifications
+- Support for 200 concurrent users
 
-### Out of Scope
-- Call recording functionality
-- Email notifications (SMS/WhatsApp only)
-- Mobile application
+## Success Metrics
 
----
+- 70 percent reduction in response time
+- 100 percent query tracking
+- 95 percent SLA compliance
+- Improved agent efficiency through centralization
 
-## 📊 Success Metrics
+## Tools Used
 
-- 70% reduction in customer query response time
-- 100% tracking of all customer queries
-- 95% SLA compliance across all ticket categories
-- Improved agent efficiency through centralized system
+- Excel for BRD, FRD, RTM, and Agile artifacts
+- JIRA for sprint management
+- Wireframing tools for UI design
 
----
+## Skills and Things I Learned
+
+- Writing a BRD that captures the real problem, not just the symptoms
+- Translating business requirements into functional specs a dev team can build from
+- Building a traceability matrix connecting requirements from source to delivery
+- Mapping a full software lifecycle process flow
+- Breaking a project into epics, user stories, and acceptance criteria
+- Running sprint management in JIRA, including backlog and burndown tracking
+- Defining clear project scope, including what is out of scope
