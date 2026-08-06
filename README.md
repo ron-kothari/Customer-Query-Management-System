@@ -31,6 +31,8 @@ A full BA engagement for Sapphire CQMS, a customer query system built for a fict
 - Epics, user stories, and acceptance criteria
 - JIRA sprint management and Agile artifacts
 
+<!-- SCREENSHOT: Add a screenshot of your project overview file from 00_Project_Overview here. This should be the first visual a recruiter sees, so pick a page that summarizes the project at a glance, ideally a title slide or one pager if you have one. -->
+
 ## Business Problem
 
 Zenith managed customer queries manually through Excel, causing:
@@ -76,10 +78,7 @@ Sapphire fixes this with:
 - Configure system settings
 - Generate system wide reports
 
-## Sample of Agile Artefacts
-
-<img width="1023" height="509" alt="image" src="https://github.com/user-attachments/assets/118a772a-0c9a-44d7-a140-69151b047dab" />
-
+<!-- SCREENSHOT: Add a wireframe screenshot from 01_Waterfall_Documentation here. Pick the main dashboard or ticket creation screen, this gives recruiters a visual sense of the actual product, not just a feature list. -->
 
 ## System Architecture
 
@@ -115,9 +114,15 @@ Sapphire fixes this with:
 - BRD, FRD, RTM, SLPF
 - UI wireframes
 
+<!-- SCREENSHOT: Add a screenshot of your Requirements Traceability Matrix from 01_Waterfall_Documentation here. This is one of the most important BA artifacts, showing a clean RTM proves you can trace requirements end to end. -->
+
 **Agile Documents and Artifacts**
 - Agile artifacts in Excel, epics, user stories, acceptance criteria
 - JIRA screenshots, sprint boards, backlog, burndown charts
+
+<!-- SCREENSHOT: You already have one image here, keep it, but consider adding a second showing your JIRA sprint board or backlog specifically, since that shows Agile tool proficiency beyond just the Excel artifacts. -->
+
+[![image](https://private-user-images.githubusercontent.com/312756035/632085323-118a772a-0c9a-44d7-a140-69151b047dab.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU5Nzk5MDIsIm5iZiI6MTc4NTk3OTYwMiwicGF0aCI6Ii8zMTI3NTYwMzUvNjMyMDg1MzIzLTExOGE3NzJhLTBjOWEtNDRkNy1hMTQwLTY5MTUxYjA0N2RhYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNlQwMTI2NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YjU5MWUwMDJjNWE0YTMwYjRhYzMyNTI3MDUxMTJmOGE5YWU1OTg1YmQ4Y2VmMTI5NzI0NjUzOWFhNjNhM2VhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.M-kErPzgJ3qT2X7KUhOtKXeqCrEljIQGOnXjFhQ5VtY)](https://private-user-images.githubusercontent.com/312756035/632085323-118a772a-0c9a-44d7-a140-69151b047dab.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU5Nzk5MDIsIm5iZiI6MTc4NTk3OTYwMiwicGF0aCI6Ii8zMTI3NTYwMzUvNjMyMDg1MzIzLTExOGE3NzJhLTBjOWEtNDRkNy1hMTQwLTY5MTUxYjA0N2RhYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNlQwMTI2NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YjU5MWUwMDJjNWE0YTMwYjRhYzMyNTI3MDUxMTJmOGE5YWU1OTg1YmQ4Y2VmMTI5NzI0NjUzOWFhNjNhM2VhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.M-kErPzgJ3qT2X7KUhOtKXeqCrEljIQGOnXjFhQ5VtY)
 
 ## Project Timeline (Simulated)
 
